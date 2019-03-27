@@ -1,19 +1,24 @@
-# 마크업 자동 생성기
+이미지 기반의 단순한 컨텐츠 배포용 페이지를 만들 때 사용할 수 있는 도구입니다. 특징으로는 데스크탑과 모바일 지원을 위한 반응형이고, 유투브 동영상의 링크를 이용하여 간편하게 삽입할 수 있습니다. 이용자 편의성을 위하여 작성된 내용은 해당 브라우저에 임시로 저장됩니다.
 
-demo : http://zidell.github.io/auto-markup
+# Demo
+
+http://zidell.github.io/auto-markup
 
 
 ## 설치
+
 ```
 npm install
 ```
 
 ## 로컬서버 실행
+
 ```
 npm start
 ```
 
 ## 빌드
+
 ```
 npm run build
 ```
